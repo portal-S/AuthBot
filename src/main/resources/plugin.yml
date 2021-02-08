@@ -1,0 +1,6 @@
+main: portal.authBot.Main
+name: AuthBot
+version: 1.0
+description:
+commands:
+  bot:

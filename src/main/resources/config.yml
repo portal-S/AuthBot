@@ -1,0 +1,8 @@
+bot-token: 'none'
+db_name: 'name'
+db_host: 'localhost'
+db_pass: '123'
+db_user: 'user'
+messages:
+  - hello;30
+
